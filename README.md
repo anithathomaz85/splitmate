@@ -1,0 +1,2 @@
+# splitmate
+First git project
